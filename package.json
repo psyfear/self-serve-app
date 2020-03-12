@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/rjbernaldo/self-serve-app#readme",
   "dependencies": {
-    "babel-loader": "^6.3.2",
+    "babel-loader": "^7.1.0",
     "babel-runtime": "^6.23.0",
     "body-parser": "^1.17.1",
     "dotenv": "^4.0.0",
